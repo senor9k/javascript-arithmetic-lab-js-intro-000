@@ -11,23 +11,23 @@ function divide(a, b) {
   return a / b
 }
 function inc(n) {
-  return a++
+  return n++
 }
 function dec(n) {
-  return a--
+  return n--
 }
 function makeInt(n) {
-  return a - b
+  return n
 }
 function makeInt(n) {
-  return a - b
+  return n
 }
 function makeInt(n) {
-  return a - b
+  return n
 }
 function preserveDecimal(n) {
-  return a - b
+  return n
 }
 function preserveDecimal(n) {
-  return a - b
+  return n
 }
