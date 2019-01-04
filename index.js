@@ -13,16 +13,16 @@ function divide(a, b) {
 function inc(n) {
   return a++
 }
-function dec(n)) {
+function dec(n) {
   return a--
 }
-function makeInt(n)) {
+function makeInt(n) {
   return a - b
 }
-function makeInt(n)) {
+function makeInt(n) {
   return a - b
 }
-function makeInt(n)) {
+function makeInt(n) {
   return a - b
 }
 function preserveDecimal(n) {
