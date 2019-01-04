@@ -5,16 +5,16 @@ function subtract(a, b) {
   return a - b
 }
 function multiply(a, b) {
-  return a - b
+  return a * b
 }
 function divide(a, b) {
-  return a - b
+  return a / b
 }
 function inc(n) {
-  return a - b
+  return a++
 }
 function dec(n)) {
-  return a - b
+  return a--
 }
 function makeInt(n)) {
   return a - b
